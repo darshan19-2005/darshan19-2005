@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan s</h1>
 <h3 align="center">I am Passionate in software engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan19-2005&label=Profile%20views&color=0e75b6&style=flat" alt="darshan19-2005" /> </p>
+<img src="https://komarev.com/ghpvc/?username=darshan19-2005&label=Profile%20views&color=0e75b6&style=flat" alt="darshan19-2005" /> </p>
 
 - 🌱 I’m currently learning **Computer Science Engineer**
 
